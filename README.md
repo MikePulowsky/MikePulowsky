@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning Git in preparation for an upcoming exam.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My favourite games is Persona 3 FES.
+- ⚡ Fun fact: My favourite games is Persona 3 FES. And my favourite show is Devilman: Crybaby
 
